@@ -1,0 +1,7 @@
+想要运行此项目，需要提前下载
+npm install -g @vue/cli     			安装脚手架，用于生成项目
+npm install -g @vue/cli-service-global   		快速原型开发 编译.vue文件
+
+
+vue serve
+vue serve -o
